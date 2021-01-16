@@ -1,2 +1,2 @@
 # SaudiMultiplier
-Calculating Output ,GDP, Jobs Multiplier &amp; Including Direct, Indirect &amp; Induced  .Using supply &amp;Use Table for Saudi Arabia
+Calculating Direct, Indirect &amp; Induced Multipliers for Output ,GDP &amp; Jobs. Using supply &amp; Use Table for Saudi Arabia
